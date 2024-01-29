@@ -14,7 +14,7 @@ What things you need to install the software and how to install them :
 
 A running version of Python in your machine.
 
-A terminal working on your machine
+A terminal working on your machine.
 
 ### Installing
 
