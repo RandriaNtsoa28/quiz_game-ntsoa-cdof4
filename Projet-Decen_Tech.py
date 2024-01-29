@@ -16,29 +16,29 @@ questions = [
         "answer": "Paris"
     },
     {
-    "question": "What is the chemical symbol for the element gold?",
-    "options": ["Au", "Ag", "Fe", "Hg"],
-    "answer": "Au"
+        "question": "What is the chemical symbol for the element gold?",
+        "options": ["Au", "Ag", "Fe", "Hg"],
+        "answer": "Au"
     },
     {
-    "question": "The Great Wall of China was built during the Ming Dynasty.",
-    "options": ["True", "False"],
-    "answer": "True"
+        "question": "The Great Wall of China was built during the Ming Dynasty.",
+        "options": ["True", "False"],
+        "answer": "True"
     },
     {
-    "question": "Which country is the largest by land area?",
-    "options": ["Russia", "Canada", "China", "United States"],
-    "answer": "Russia"
+        "question": "Which country is the largest by land area?",
+        "options": ["Russia", "Canada", "China", "United States"],
+        "answer": "Russia"
     },
     {
-    "question": "In basketball, the term 'slam dunk' was popularized by commentator _______.",
-    "options": ["Chick Hearn", "Marv Albert", "Bill Russell", "Bob Costas"],
-    "answer": "Chick Hearn"
+        "question": "In basketball, the term 'slam dunk' was popularized by commentator _______.",
+        "options": ["Chick Hearn", "Marv Albert", "Bill Russell", "Bob Costas"],
+        "answer": "Chick Hearn"
     },
     {
-    "question": "Who wrote the novel '1984'?",
-    "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "J.R.R. Tolkien"],
-    "answer": "George Orwell"
+        "question": "Who wrote the novel '1984'?",
+        "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "J.R.R. Tolkien"],
+        "answer": "George Orwell"
     }
 ]
 
