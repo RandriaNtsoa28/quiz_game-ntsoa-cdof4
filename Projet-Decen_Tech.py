@@ -8,9 +8,6 @@ Created on Mon Jan 29 14:22:09 2024
 import json
 import random
 
-def load_questions(filename):
-    with open(filename, 'r') as file:
-        return json.load(file)
 
 questions = [
     {
@@ -61,7 +58,6 @@ def run_quiz(questions):
     return score
 
 def main():
-    #questions = load_questions("questions.txt")
     random.shuffle(questions)
     score = run_quiz(questions)
     print(f"Your final score is {score}/{len(questions)}")
