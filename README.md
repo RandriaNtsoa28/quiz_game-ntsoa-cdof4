@@ -1,10 +1,8 @@
 # quiz_game-ntsoa-cdof4
+
+# Quiz Game
 Quiz game :
 The player answers a number of questions to try and win the game.
-
-# Project Title
-
-One Paragraph of project description goes here
 
 ## Getting Started
 
@@ -12,11 +10,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+What things you need to install the software and how to install them :
 
-```
-Give examples
-```
+A running version of Python in your machine.
+
+A terminal working on your machine
 
 ### Installing
 
