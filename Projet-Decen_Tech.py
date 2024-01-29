@@ -12,12 +12,12 @@ import random
 questions = [
     {
         "question": "What is the capital of France?",
-        "options": ["Paris", "Berlin", "Rome", "Madrid"],
+        "options": ["Berlin","Paris", "Rome", "Madrid"],
         "answer": "Paris"
     },
     {
         "question": "What is the chemical symbol for the element gold?",
-        "options": ["Au", "Ag", "Fe", "Hg"],
+        "options": ["Ag","Au", "Fe", "Hg"],
         "answer": "Au"
     },
     {
@@ -27,12 +27,12 @@ questions = [
     },
     {
         "question": "Which country is the largest by land area?",
-        "options": ["Russia", "Canada", "China", "United States"],
+        "options": ["Canada", "China", "United States","Russia"],
         "answer": "Russia"
     },
     {
         "question": "In basketball, the term 'slam dunk' was popularized by commentator _______.",
-        "options": ["Chick Hearn", "Marv Albert", "Bill Russell", "Bob Costas"],
+        "options": ["Marv Albert", "Bill Russell", "Chick Hearn","Bob Costas"],
         "answer": "Chick Hearn"
     },
     {
